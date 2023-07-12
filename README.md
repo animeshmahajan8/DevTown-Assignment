@@ -16,7 +16,7 @@ Please use the dataset of your choice and place it in the repository folder befo
 
 The machine learning model is implemented using the Google colab. You can find the code and detailed explanation in the following file:
 
-- [Model Development Notebook](DevTown Assignment.ipynb)
+- [Model Development Notebook](DevTown_Assignment.ipynb)
 
 In the notebook, you will find step-by-step instructions on data preprocessing, model training, and evaluation. The code is well-commented to facilitate understanding, especially for beginners.
 
