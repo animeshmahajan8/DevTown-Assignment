@@ -41,6 +41,7 @@ You can install the dependencies by running the following command:
 
 ```shell
 pip install -r requirements.txt
+```
 
 #Usage
 To use the model and make predictions, follow the instructions provided in the DevTown Assignment.ipynb notebook. Make sure to have the dataset in the repository folder and all the required dependencies installed.
