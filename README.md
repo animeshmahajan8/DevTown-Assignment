@@ -8,7 +8,7 @@ This repository contains a machine learning model that predicts the quality of w
 
 The model is trained on the "Wine Quality" dataset, which provides information about the physicochemical properties of wines. The dataset is divided into two versions: red wine and white wine. You can choose the dataset version that suits your needs.
 
--Wine Dataset: [Download](https://archive.ics.uci.edu/dataset/186/wine+quality)
+- Wine Dataset: [Download](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
 Please use the dataset of your choice and place it in the repository folder before running the model.
 
