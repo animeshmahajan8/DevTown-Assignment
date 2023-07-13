@@ -24,7 +24,7 @@ In the notebook, you will find step-by-step instructions on data preprocessing, 
 
 To provide a visual explanation of the model and its implementation, we have created an explanation video. The video covers the key concepts, code walkthrough, and insights gained from the model.
 
-- [Explanation Video]([https://example.com/explanation_video](https://www.canva.com/design/DAFodd_Vh9k/CpV8SqLXmrjy-HPYVPw-uw/view?utm_content=DAFodd_Vh9k&utm_campaign=designshare&utm_medium=link&utm_source=recording_view))
+- [Explanation Video](https://www.canva.com/design/DAFodd_Vh9k/CpV8SqLXmrjy-HPYVPw-uw/view?utm_content=DAFodd_Vh9k&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
 
 Make sure to watch the video to gain a deeper understanding of the model and its results.
 
